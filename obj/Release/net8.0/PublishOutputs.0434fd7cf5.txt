@@ -1,0 +1,14 @@
+D:\программирование\c#\interview_project\out\interview_project.exe
+D:\программирование\c#\interview_project\out\appsettings.Development.json
+D:\программирование\c#\interview_project\out\appsettings.json
+D:\программирование\c#\interview_project\out\interview_project.dll
+D:\программирование\c#\interview_project\out\interview_project.deps.json
+D:\программирование\c#\interview_project\out\interview_project.runtimeconfig.json
+D:\программирование\c#\interview_project\out\interview_project.pdb
+D:\программирование\c#\interview_project\out\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\программирование\c#\interview_project\out\Microsoft.Extensions.Logging.Abstractions.dll
+D:\программирование\c#\interview_project\out\Microsoft.OpenApi.dll
+D:\программирование\c#\interview_project\out\Npgsql.dll
+D:\программирование\c#\interview_project\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\программирование\c#\interview_project\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\программирование\c#\interview_project\out\Swashbuckle.AspNetCore.SwaggerUI.dll
