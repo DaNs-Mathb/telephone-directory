@@ -29,7 +29,7 @@ if (app.Environment.IsDevelopment())
 }
 
 
-app.MapGet("/",()=>"HELO WORLD");
+app.MapGet("/",()=>"HELLO WORLD");
 app.MapGet("/departments/hierarchy", async (IDepartmentRepository repository) => 
     await repository.GetHierarchyAsync())
     .WithTags("Departments")
